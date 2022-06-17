@@ -7,7 +7,7 @@ app.use(express.static('images'));
 app.use(express.static('css'));
 
 app.listen(port, () => {
-    console.log(`Example app listening on port ${port}`)
+    console.log(`Awesome app listening on port ${port}`)
 });
 
 
